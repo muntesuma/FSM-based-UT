@@ -1,0 +1,9 @@
+0 == ButterflyFSM.Input.DailyCooling
+1 == ButterflyFSM.Input.WinterColdsnap
+2 == ButterflyFSM.Input.FoodDetection
+3 == ButterflyFSM.Input.PartnerDetection
+0 == ButterflyFSM.Output.RestplaceSearching
+1 == ButterflyFSM.Output.HibernationPreparing
+2 == ButterflyFSM.Output.PreparingForNutrition
+3 == ButterflyFSM.Output.PartnerAttracting
+4 == ButterflyFSM.Output.ProcessContinuation
